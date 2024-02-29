@@ -17,3 +17,4 @@ This repository contains all the project codes for the javascript backend specil
 | [`0x03. ES6 data manipulation`](./0x03-ES6_data_manipulation/) | ES6 data manipulation - **`Javascript`** **`ES6`** |
 | [`0x04. Typescript`](./0x04-TypeScript/) | Typescript - **`Javascript`** **`Typescript`** |
 | [`0x05. NodeJS Basics`](./0x04-Node_JS_basic/) | NodeJS Basics - **`Back-end`** **`Javascript`** **`NodeJS`** **`ES6`** **`Express JS`** |
+| [`0x06. Unittests in JS`](./0x06-unittests_in_js/) | Unittests in JS - **`UnitTests`** **`Back-end`** **`Javascript`** **`NodeJS`** **`ES6`** **`ExpressJS`** |
